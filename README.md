@@ -1,6 +1,6 @@
-# mauriciochavez
+# BMI Calculator 
 
-Calculates your BMI
+Flutter app that calculates your BMI (body mass index)
 
 ## Getting Started
 
